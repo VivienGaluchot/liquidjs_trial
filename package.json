@@ -1,0 +1,16 @@
+{
+    "name": "liquidjs_trial",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "dependencies": {
+        "liquidjs": "^9.28.5",
+        "node": "^17.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "render": "node src/render.js"
+    },
+    "author": "",
+    "license": "ISC"
+}

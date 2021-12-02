@@ -1,0 +1,13 @@
+{
+    "name": "sucrette",
+    "recettes": [{
+        "name": "a",
+        "url": "recettes/a.html"
+    }, {
+        "name": "b",
+        "url": "recettes/b.html"
+    }, {
+        "name": "c",
+        "url": "recettes/c.html"
+    }]
+}
